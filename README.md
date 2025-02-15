@@ -36,7 +36,7 @@ To Use The Mnemonic Phrase Generator, You Need To Have Python Installed On Your 
 Clone The Repository To Your Local Machine Using Git:
 
 ```bash
-git clone https://github.com/your-username/phrase-generator.git
+git clone https://github.com/theakorg/phrase-generator.git
 ```
 
 ### Step 2: Install Dependencies
